@@ -1,0 +1,21 @@
+{
+  "name": "dailycodingproblem.com",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "My take at the problems from the dailycodingproblem.com",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurc137/dailycodingproblem.com.git"
+  },
+  "author": "mayurc137",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurc137/dailycodingproblem.com/issues"
+  },
+  "homepage": "https://github.com/mayurc137/dailycodingproblem.com#readme"
+}
